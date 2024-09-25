@@ -36,12 +36,7 @@ For the project, annual reports for 2022 of **JP Morgan Chase & Co.** and **Gold
    git clone https://github.com/yourusername/investment-banking-gpt.git
    ```
 
-2. **Install the necessary dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Streamlit app**:
+2. **Run the Streamlit app**:
    ```bash
    streamlit run app.py
    ```
