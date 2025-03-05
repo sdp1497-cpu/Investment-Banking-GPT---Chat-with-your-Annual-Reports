@@ -38,7 +38,7 @@ For the project, annual reports for 2022 of **JP Morgan Chase & Co.** and **Gold
 
 2. **Run the Streamlit app**:
    ```bash
-   streamlit run app.py
+   streamlit run app_mutilplepdfs.py
    ```
 
 4. **Upload PDF files** 📄: The app will accept multiple PDF files of annual reports for processing and analysis.
